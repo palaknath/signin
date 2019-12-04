@@ -1,0 +1,32 @@
+.form_container {
+    background-color:#FFD740;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    width: 100;
+    
+  }
+  .form_container *
+  {
+text-align: center;
+  }
+  
+  .form_container mat-form-field 
+  { 
+      text-align: left;
+  }
+  
+   
+  .form_container input 
+  { 
+      width:100%;
+      margin-left: 30%;
+      text-align: left;
+  }
+  .mat-form-field {
+    display: block;
+    position: relative;
+    text-align: left;
+    padding: 15px;
+    margin-left: auto !important;
+}
